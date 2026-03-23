@@ -12,5 +12,5 @@ public class Libro {
     private String titulo;
     private String autor;
     private String editorial;
-    private int lanzamiento;
+    private int fechaLanzamiento;
 }
